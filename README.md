@@ -11,7 +11,7 @@ This is a social media application backend built using django.
 ### Setep Guide
 ##### 1.Cloning the repo
 - Clone the repo or fork it and then clone from your profile.
-- Cd into **Django-backend**
+- Cd into **backend**
 - Create a new branch by doing the following:
   - **git checkout -b branch_name**
 ##### 2.Pipenv and migrations
